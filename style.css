@@ -1,0 +1,29 @@
+.teste {
+    background-color:#34495e;
+}
+.fundo {
+    width:300px;
+    position: absolute;
+    padding:30px;
+    padding-bottom:30px;
+    top:40%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    border-radius:10px;
+    padding-bottom:20px;
+    padding-top:20px;
+    border:1px solid #ccc;
+    background-color:#FFF;
+}
+h3 {
+    text-align: center;
+}
+#resultado {
+    border:1px solid #DDD;
+    padding:2px;
+    padding-right:3px;
+    color:#777;
+    font-family:arial;
+    font-weight:bold;
+    border-radius:7px;
+}
